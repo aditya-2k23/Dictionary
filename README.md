@@ -26,7 +26,7 @@ Ready to explore the world of words? Follow these simple steps to get the Dictio
 1.  **Clone the Repository:** Open your terminal or command prompt and navigate to your desired project directory. Then, execute the following command:
 
     ```bash
-    git clone [https://github.com/aditya-2k23/dictionary-app.git](https://github.com/your-username/dictionary-app.git)
+    git clone https://github.com/aditya-2k23/dictionary.git
     ```
 
 2.  **Navigate to the Project Directory:** Once the cloning is complete, change your current directory to the newly created project folder:
